@@ -1,1 +1,0 @@
-print("dung lam mot minh")
