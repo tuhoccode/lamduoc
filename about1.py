@@ -1,1 +1,0 @@
-print("lan cuoi de di ngu")
